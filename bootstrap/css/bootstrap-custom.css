@@ -1,0 +1,172 @@
+body{
+	/*background:url(../img/background.png) repeat-y;*/
+	background:skyblue;
+}
+.cloud1, .cloud2, .cloud3, .cloud4{
+position:fixed;
+width:2000px;
+margin-left:-1000px;
+left:50%;
+z-index:-1;
+}
+
+.cloud1{
+height:692px;
+background:url(../img/cloud1.png);
+margin-top:-346px;
+top:100%;
+}
+
+.cloud2{
+height:484px;
+background:url(../img/cloud2.png);
+margin-top:-242px;
+top:90%;
+}
+
+.cloud3{
+height:444px;
+background:url(../img/cloud3.png);
+margin-top:-222px;
+top:70%;
+}
+
+.cloud4{
+height:285px;
+background:url(../img/cloud4.png);
+margin-top:-142px;
+top:55%;
+}
+
+.container
+{
+	padding-top:50px;
+	background-color:rgba(0, 153, 255,0.75);
+	height:1000px;
+	border:1px solid #000;
+	overflow-x:hidden;
+}
+.form-log
+{
+	padding-top:18px;
+	border-top:1px solid #000;
+	padding-bottom:0px;
+	border-bottom:1px solid #000;
+	background-color:rgba(255, 255, 255,0.50);
+}
+.brand 
+{
+	padding:10px 10px 10px 30px !important;
+}
+.navbar-form
+{
+	padding-right:10px !important;
+}
+.brnd
+{
+	font-size:15px;
+}
+.padd-rigt
+{
+	padding-right:10px;
+}
+#footer
+{
+	text-align:center;
+	height:20px;
+	width:100%;
+	background-color:#000;
+	color:#fff;
+	font-size:13px;
+	font-family:"verdana";
+}	
+.brnd-foot
+{
+	font-size:10px;
+	font-family:"verdana";
+}
+.tip
+{
+	border:2px solid #ff0000 !important;
+}
+.home
+{
+	text-decoration:none;
+	color:white;
+}
+.tit
+{
+	width:100%;
+	background-color:rgba(255,255,255,0.9);
+	/*border:1px solid #000;*/
+	font-weight:bold;
+	font-family:"verdana";
+	padding:2px;
+}
+.post
+{
+	padding: 10px;
+	padding-left: 20px;
+	background-color:rgba(0,191,255,0.7);
+	/*border:1px solid #000;*/
+}
+.post a,.containment a
+{
+	text-decoration:none;
+	color:white;
+	cursor:pointer;
+	font-style:italic;
+	font-family:"verdana";
+	text-decoration:underline;
+}
+#fla
+{
+	position: fixed;
+	z-index: 100;
+	top:4%;
+	left:12%;
+	border:4px solid #000;
+	border-top:none;
+	background-color:#000;
+}
+#back
+{
+	font-family:"verdana";
+	font-size:15px;
+	background-color:#000;
+	position:fixed;
+	top:50px;
+	left:15px;
+	padding:8px;
+	color:white;
+	display:none;
+	cursor:pointer;
+}
+.overlay
+{
+	width:100%;
+	height:100%;
+	position:fixed;
+	background-color:rgba(0,0,0,0.4);
+}
+.containment.even .tit
+{
+	margin-top:10px;
+}
+
+.containment.odd .tit
+{
+	margin-top:10px;
+}
+.post iframe
+{
+	z-index: 90;
+}
+ul.nav a
+{
+	text-decoration:none;
+}
+ul.nav a:hover
+{
+	color:#fff;
+}

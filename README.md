@@ -3,7 +3,7 @@ Kefex Studios Project
 
 Name: KefexStudios - Project
 Developer :  A. Kiran Kumaar
-Comapny : Kefex Studios
+Comapany : Kefex Studios
 
 This Project is open source project where it is developed in Making progress for availablity of Tutorials and Portfolio of the 
 Kiran and this project is under active Development.

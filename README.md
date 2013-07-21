@@ -1,14 +1,12 @@
-Kefex Studios Project
+Bootstrap Learning
 =====================
 
-Name: KefexStudios - Project
+Name: Bootstrap
 Developer :  A. Kiran Kumaar
-Company : Kefex Studios
 
-This Project is open source project where it is developed in Making progress for availablity of Tutorials and Portfolio of the 
-Kiran and this project is under active Development.
+This Project is open source project where it is developed in Bootstrap theme and php with jQuery.
 
-Architecture:
-1. OOPS Based
-2. PHP, MYSQLI -  Based Project 
+Repo Architecture:
+1. OOPS
+2. PHP, MYSQLI
 3. Front-End - HTML 5 , CSS3, JQUERY, JQuery UI , Javascript

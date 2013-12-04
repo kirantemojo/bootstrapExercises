@@ -1,7 +1,6 @@
 Bootstrap Learning
 =====================
 
-Name: Bootstrap
 Developer :  A. Kiran Kumaar
 
 This Project is open source project where it is developed in Bootstrap theme and php with jQuery.
